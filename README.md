@@ -8,8 +8,12 @@ This data came from the National UFO Reporting Center, with links to the specifi
 Completed for now 
 
 ## Data Dictionary
+| Name  | Description |
+| ------------- | ------------- |
+| Details  | URL associated with the sighting  |
+| Date  | Date and time the sighting occurred  |
 
-| Name | Type || Description |
+| Name | Type | Description |
 | ------ | ------ |
 | Details | Text | URL associated with the sighting |
 | Date | Date | Date and time the sighting occurred |
