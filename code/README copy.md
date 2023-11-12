@@ -1,2 +1,2 @@
 # dataset-ufo
-This contains information about UFO events and sightings that have occurred.
+Web scraping code used to create the dataset.
