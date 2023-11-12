@@ -12,18 +12,13 @@ Completed for now
 | ------------- | ------------- |
 | Details  | URL associated with the sighting  |
 | Date  | Date and time the sighting occurred  |
-
-| Name | Type | Description |
-| ------ | ------ |
-| Details | Text | URL associated with the sighting |
-| Date | Date | Date and time the sighting occurred |
-| City | Text | City the sighting took place in |
-| State | Text | State the sighting took place in |
-| Country | Text | Country the sighting took place in |
-| Shape | Text | Shape description of the sighting |
-| Summary | Text | Summary of what occurred during sighting |
-| Report_Date | Date | Date the sighting was reported |
-| Posted_Date | Date | Date the sighting was posted |	
+| City  | City the sighting took place in  |
+| State  | State the sighting took place in  |
+| Country  | Country the sighting took place in  |
+| Shape  | Description of the shape seen during the sighting  |
+| Summary  | Summary of what occurred during sighting  |
+| Report_Date  | Date the sighting was reported  |
+| Posted_Date  | Date the sighting was posted  |
 
 ## To-Do List
 N/A 
