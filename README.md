@@ -1,4 +1,4 @@
-# dataset-ufo
+# UFO Dataset
 This contains information about UFO events and sightings that have occurred.
 
 ## Data Source
