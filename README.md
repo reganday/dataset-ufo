@@ -1,5 +1,5 @@
 # UFO Dataset
-This contains information about UFO events and sightings that have occurred.
+This contains information about UFO events and sightings that have occurred. I completed this project during my time as a Business Analytics and Information student at the University of Iowa Tippie College of Business.
 
 ## Data Source
 This data came from the National UFO Reporting Center, with links to the specific pages: https://nuforc.org/subndx/?id=e202011, https://nuforc.org/subndx/?id=e202010, https://nuforc.org/subndx/?id=e202008, https://nuforc.org/subndx/?id=e202007, https://nuforc.org/subndx/?id=e202006, https://nuforc.org/subndx/?id=e202005, https://nuforc.org/subndx/?id=e202004, https://nuforc.org/subndx/?id=e202003, https://nuforc.org/subndx/?id=e202002, https://nuforc.org/subndx/?id=e202001
