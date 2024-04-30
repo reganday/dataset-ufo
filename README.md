@@ -20,11 +20,5 @@ Completed for now
 | Report_Date  | Date the sighting was reported  |
 | Posted_Date  | Date the sighting was posted  |
 
-## To-Do List
-N/A 
-
-## Changelog: 
-#1 - Completed all four issues that were posted about this project.
-
 ## Notes: 
 Although this is completed for the time being, this is a work in progress repository that could still be updated.
